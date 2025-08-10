@@ -1,5 +1,5 @@
 # fivem-delivery
-Aplicativo entregador
+Aplicativo de Entrega
 
 ### Como utilizar
 
