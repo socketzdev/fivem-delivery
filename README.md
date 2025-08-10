@@ -1,0 +1,17 @@
+# fivem-delivery
+Aplicativo entregador
+
+### Como utilizar
+
+- Clone o repositório, e execute o arquivo `Instalar Node.bat` caso você não tenha o NodeJS.
+- Execute o arquivo `Start.bat` para baixar todas as dependências, atualizações e iniciar o aplicativo.
+
+### Webhook discord
+
+**Este webhook manda mensagens informando a situação de alguns pedidos, por isso é importante deixar o canal do webhook com acesso restrito aos administradores do servidor**
+
+Exemplo na config.json
+
+```json
+    "discord_webhook": "https://discordapp.com/api/webhooks/........."
+```
